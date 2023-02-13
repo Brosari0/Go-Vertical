@@ -122,25 +122,6 @@ nav > ul a {
   background-color: #BED74C;
 }
 
-<<<<<<< HEAD
-nav > a {
-  font-size: 25px;
-  text-decoration: none;
-  float: left;
-  padding: 14px 16px;
-  display: block;
-  text-align: center;
-  overflow: hidden;
-}
-
-
-nav > a:hover {
-  background-color: #222;
-  color: #31352E;
-}
-
-=======
->>>>>>> rosario
 .user-icon {
   height: 30px;
   width: auto;
